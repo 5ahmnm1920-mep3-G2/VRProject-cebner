@@ -1,13 +1,16 @@
 # Template Repository for Unity3D version 2019.1.14f1
 
 ### Project description: 
-Introduction/Project summary 
+Man befindet sich in einem Raum. In der Mitte des Raumes befindet sich eine etwas größere Weltkugel. 
+Im Raum verteilt befinden sich Objekte wie zum Beispiel der Eiffel Turm oder die Jesus Statue(Rio). Diese Objekte sind in einer handlichen größe. 
+Man muss dann die Objekte nehmen und auf das richtige Land auf die Weltkugel setzen. Sind alle Objekte am richtigen Ort leuchtet die Weltkugel.
+Die Fortbewegung passiert mittels teleportation.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Mac OSMojave 10.14.6 Unity Version: 2019.1.14f1 Visual Studio Code Version: 7.7.3.43
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Oculus Rift
 
 ### Visuals: 
 Screenshots (concept and experience), Video
